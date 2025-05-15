@@ -1,4 +1,5 @@
 📊 Monthly Work Hours & Progress Tracker (Google Calendar + Google Sheets)
+
 This Google Apps Script project tracks total working hours per month by reading events from your Google Calendar and logging the data into a connected Google Sheet. It’s designed to help freelancers, contractors, or part-time workers monitor their workload and stay within their target hours.
 
 By automatically logging daily and monthly totals and enforcing a weekly hour cap, it ensures better control over time management and project pacing.
